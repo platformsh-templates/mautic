@@ -1,3 +1,4 @@
+#.*
 !.gitignore
 !.htaccess
 !.gitkeep
@@ -92,4 +93,4 @@
 !/themes/blank.png
 !/themes/blank-big.png
 
-/translations
+#/translations
