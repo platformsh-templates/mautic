@@ -1,10 +1,8 @@
-# Mautic for Platform.sh
+> ## Archived template
+>
+> This template has been archived. You can still use it as a reference, but it is no longer receiving regular updates from our team.
 
-<p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/mautic/.platform.template.yaml&utm_content=mautic&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
-    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
-</a>
-</p>
+# Mautic for Platform.sh
 
 This template provides a basic Mautic installation.  It includes MariaDB for storage, which will be auto-selected during the installer.  It also includes a RabbitMQ queue server that may be enabled manually post-install.
 
